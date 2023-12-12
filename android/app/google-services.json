@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334747643633",
+    "project_id": "food-authentication-ac0bb",
+    "storage_bucket": "food-authentication-ac0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334747643633:android:79a600486749dbf6c20350",
+        "android_client_info": {
+          "package_name": "com.example.auth_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWiGiMm5QHb7bwkcA_kltD4vfFjOvFuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
